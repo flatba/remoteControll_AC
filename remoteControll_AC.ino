@@ -1,5 +1,6 @@
 /*
- * 赤外線送信プログラム
+ * 室温によってエアコンのオンオフを行なう
+ * 
  * sendRawの出力：D3 
  * 参考：http://blog.hawksnowlog.cf/2017/01/control-infrared-with-arduino.html
  */
